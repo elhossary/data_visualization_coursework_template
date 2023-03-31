@@ -5,19 +5,49 @@ To use it, please fork it to your Github username and adhere to the following gu
 
 ## User info:
 - Full name:
-- 
+- Semester:
+- Course ID:
 
 
 ## General guidelines
+- Fork this repo to your account
 - Add your name and other required details above
 - You should report your coursework in the following structure
 	```
 	.
-	├── data (to store data sets used in your project)
-	├── exam (to store your answers)
-	├── presentation (to store your presentation materials)
-	├── project_work (to store your jupyter notebooks of your graduation project)
+	├── project
+	│   ├── code  (to store your code files, eg. jupyter notebooks of your graduation project)
+	│   │   └── README.md (to describe your file in this folder)
+	│   ├── presentation (to store your presentation materials)
+	│   ├── data (to store files of data sets used or README.md with links to data sets)
+	│   └── report (to store your report files)
 	├── publications (to store PDF of the publications, or markdown file with links to papers)
 	└── README.md
 	```
-## 
+### Data visualization project
+The project should give you the chance to apply the learnt skills and
+reflect the outcomes. It can be can be conducted individually or in
+groups of two.
+  
+- *Code*
+  - Should contain a `README.md` file that describes the project briefly
+  - Ideally use an Open Source License [OSI](https://opensource.org/)
+    compliant - e.g. [[https://choosealicense.com/licenses/mit/][MIT License]] ([[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository][further info on GitHub]])
+  - can be public or private (in the later case invite user `konrad`)
+- *Presentation*
+  - In the last session
+  - 10 min presentation + 5 min questions/answers
+  - Free mode - either slides, walk through the repo, demo or
+    combinations
+- *Report*
+  - Deadline: one week after exam day at 18:00
+  - Submission via [Illias]()
+  - Volume: 5,000 - 7,000 characters
+  - In group projects each group member has to write an individual
+    report.
+  - Should include
+    - Motivation
+    - Applied technologies and implementation
+    - Reason why which approach was used
+    - Discussion and conclusion
+    - References
