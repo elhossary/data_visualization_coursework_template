@@ -53,5 +53,5 @@ groups of two.
     - Reason why which approach was used
     - Discussion and conclusion
     - References
- ## MCQ
+ ### MCQ
  - Generate Multiple choice question with their answers as in the examples file in the MCQ directory
