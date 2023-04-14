@@ -15,6 +15,8 @@ To use it, please fork it to your Github username and adhere to the following gu
 - You should report your coursework in the following structure
 	```
 	.
+	├── MCQs
+	│   └── example.txt
 	├── project
 	│   ├── code  (to store your code files, eg. jupyter notebooks of your graduation project)
 	│   │   └── README.md (to describe your file in this folder)
@@ -51,3 +53,5 @@ groups of two.
     - Reason why which approach was used
     - Discussion and conclusion
     - References
+ ## MCQ
+ - Generate Multiple choice question with their answers as in the examples file in the MCQ directory
