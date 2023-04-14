@@ -32,7 +32,7 @@ groups of two.
 - *Code*
   - Should contain a `README.md` file that describes the project briefly
   - Ideally use an Open Source License [OSI](https://opensource.org/)
-    compliant - e.g. [[MIT License](https://choosealicense.com/licenses/mit/)] ([[further info on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)])
+    compliant - e.g. [MIT License](https://choosealicense.com/licenses/mit/), and [further info on GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
   - can be public or private (in the later case invite user `konrad`)
 - *Presentation*
   - In the last session
