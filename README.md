@@ -54,4 +54,4 @@ groups of two.
     - Discussion and conclusion
     - References
  ### MCQ
- - Generate Multiple choice question with their answers as in the examples file in the MCQ directory
+ - Generate Multiple choice questions with their answers (in your fork) as in the examples file in the MCQ directory then make a pull request to this repo.
