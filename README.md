@@ -15,15 +15,15 @@ To use it, please fork it to your Github username and adhere to the following gu
 - You should report your coursework in the following structure
 	```
 	.
-	├── MCQs (to add the MCQs that you will generate)
-	│   └── example.txt (contains examples for MCQs)
+	├── MCQs => (to add the MCQs that you will generate)
+	│   └── example.txt => (contains examples for MCQs)
 	├── project
-	│   ├── code  (to store your code files, eg. jupyter notebooks of your graduation project)
-	│   │   └── README.md (to describe your file in this folder)
-	│   ├── presentation (to store your presentation materials)
-	│   ├── data (to store files of data sets used or README.md with links to data sets)
-	│   └── report (to store your report files)
-	├── publications (to store PDF of the publications, or markdown file with links to papers)
+	│   ├── code => (to store your code files, eg. jupyter notebooks of your graduation project)
+	│   │   └── README.md => (to describe your file in this folder)
+	│   ├── presentation => (to store your presentation materials)
+	│   ├── data => (to store files of data sets used or README.md with links to data sets)
+	│   └── report => (to store your report files)
+	├── publications => (to store PDF of the publications, or markdown file with links to papers)
 	└── README.md
 	```
 ### Data visualization project
